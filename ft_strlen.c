@@ -6,11 +6,11 @@
 /*   By: kferterb <kferterb@student.21-school.ru    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/06 09:53:36 by kferterb          #+#    #+#             */
-/*   Updated: 2022/03/04 12:30:04 by kferterb         ###   ########.fr       */
+/*   Updated: 2022/06/05 10:41:57 by kferterb         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "stdlib.h"
+#include "libft.h"
 
 size_t	ft_strlen(const char *s)
 {

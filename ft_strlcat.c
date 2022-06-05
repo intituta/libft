@@ -6,11 +6,9 @@
 /*   By: kferterb <kferterb@student.21-school.ru    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/10/14 11:54:21 by kferterb          #+#    #+#             */
-/*   Updated: 2022/03/04 12:46:34 by kferterb         ###   ########.fr       */
+/*   Updated: 2022/06/05 10:42:04 by kferterb         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
-#include "libft.h"
 
 #include "libft.h"
 
